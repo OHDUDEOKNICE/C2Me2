@@ -1,0 +1,5 @@
+lls
+lpwd
+lcd ../
+lls
+lcd ../

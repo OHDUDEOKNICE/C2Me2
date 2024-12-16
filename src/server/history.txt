@@ -1,0 +1,65 @@
+history
+?
+help
+history
+execute -c 1 id
+history
+exit
+exit
+help
+beacons -l
+beacons -l
+help
+execute -c 1 "ls -lsaht"
+execute -c 1 "echo 'hello friend' > /var/tmp"
+execute -c 1 "echo 'hello friend' > /var/tmp/data"
+execute -c 1 "cat /var/tmp/data"
+help
+beacon -l
+beacons -l
+beacons -i 2
+clear
+?
+history
+?
+?
+history
+beacons -l
+clear
+exit
+clear
+?
+clear
+?
+clear
+history
+clear
+ll
+clear
+?
+help
+clear
+help
+help
+exit
+quit
+exit
+exit
+?
+exit
+help
+help
+clear
+?
+beacons -l
+beacons -i 1
+?
+exit
+?
+sessions
+sessions -l
+sessions -l
+execute -c 1 "id"
+exit
+?
+exit

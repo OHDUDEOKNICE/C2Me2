@@ -1,0 +1,10 @@
+/home/kali/projects/C2Me2/CMakeFiles/edit_cache.dir
+/home/kali/projects/C2Me2/CMakeFiles/rebuild_cache.dir
+/home/kali/projects/C2Me2/src/CMakeFiles/edit_cache.dir
+/home/kali/projects/C2Me2/src/CMakeFiles/rebuild_cache.dir
+/home/kali/projects/C2Me2/src/common/CMakeFiles/common.dir
+/home/kali/projects/C2Me2/src/common/CMakeFiles/edit_cache.dir
+/home/kali/projects/C2Me2/src/common/CMakeFiles/rebuild_cache.dir
+/home/kali/projects/C2Me2/src/server/CMakeFiles/server.dir
+/home/kali/projects/C2Me2/src/server/CMakeFiles/edit_cache.dir
+/home/kali/projects/C2Me2/src/server/CMakeFiles/rebuild_cache.dir

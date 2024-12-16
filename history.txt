@@ -1,0 +1,44 @@
+lls
+lpwd
+lcd src
+lls
+lpwd
+lls
+clear
+?
+lpwd
+lcd src
+lls
+lpwd
+lls
+lpwd
+exit
+?
+exit
+?
+sessions -i 1
+beacons -i 1
+beaons
+beacons -l
+exit
+?
+beacons -l
+sessions -l
+sessions -i 1
+exit
+?
+lls
+lls
+lpwd
+sessions -i
+sessions -i
+beacons -l
+exit
+?
+sessions -l
+sessions -l
+!
+lls
+upload tasks.json
+sessions -i 1
+exit
